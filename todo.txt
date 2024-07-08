@@ -1,0 +1,15 @@
+create new user
+link authentication and cart items
+link razor pay for buy items
+
+What a user info will be?
+
+1) UserDetails -done
+2) Email        -done
+3) Password     -done
+4) CartDetails      -done
+5) OrderHistory
+6) Address
+7) RecentlySearched
+8) YourProducts
+9) Query
